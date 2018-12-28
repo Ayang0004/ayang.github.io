@@ -1,2 +1,2 @@
 # ayang.github.io
-阿阳的技术
+技术站点
